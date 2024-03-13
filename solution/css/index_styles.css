@@ -44,31 +44,6 @@ section.col-12 {
   margin: 1em;
 }
 
-/* Scrollbar customization */
-::-webkit-scrollbar {
-    width: 12px;
-}
-
-::-webkit-scrollbar-track {
-    background: #124076;
-}
-
-::-webkit-scrollbar-thumb {
-    background: #124076;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: #124076;
-}
-
-html {
-    scrollbar-color: #124076 #124076;
-}
-
-html:hover {
-    scrollbar-color: #124076 #124076;
-}
-
 /* Desktop View */
 @media (min-width: 992px) {
   div.container {
